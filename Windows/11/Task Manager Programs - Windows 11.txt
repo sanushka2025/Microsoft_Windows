@@ -1,0 +1,47 @@
+List of common programs that consume the most CPU and memory on Windows 11 systems, with approximate usage statistics:
+
+1. Web Browsers
+   - Microsoft Edge: CPU ~5% - 15%, Memory ~300 MB - 1.5 GB
+   - Google Chrome: CPU ~5% - 25%, Memory ~500 MB - 2 GB
+   - Mozilla Firefox: CPU ~5% - 15%, Memory ~250 MB - 1 GB
+
+2. Office Applications
+   - Microsoft Word: CPU ~1% - 5%, Memory ~100 MB - 500 MB
+   - Microsoft Excel: CPU ~1% - 10%, Memory ~150 MB - 1 GB
+   - Microsoft PowerPoint: CPU ~1% - 5%, Memory ~150 MB - 500 MB
+
+3. Creative Software
+   - Adobe Acrobat Reader: CPU ~1% - 5%, Memory ~100 MB - 500 MB
+   - Adobe Photoshop: CPU ~10% - 30%, Memory ~1 GB - 4 GB
+   - Adobe Illustrator: CPU ~10% - 20%, Memory ~500 MB - 2 GB
+
+4. Development Tools
+   - Visual Studio Code: CPU ~5% - 15%, Memory ~150 MB - 500 MB
+
+5. Game Clients
+   - Steam Client: CPU ~2% - 5%, Memory ~100 MB - 300 MB
+   - Epic Games Launcher: CPU ~2% - 8%, Memory ~200 MB - 500 MB
+
+6. Communication Tools
+   - Discord: CPU ~3% - 10%, Memory ~200 MB - 600 MB
+   - Skype: CPU ~3% - 8%, Memory ~200 MB - 500 MB
+   - Zoom: CPU ~10% - 30%, Memory ~500 MB - 2 GB
+   - Microsoft Teams: CPU ~10% - 20%, Memory ~300 MB - 1 GB
+
+7. Cloud Services
+   - OneDrive: CPU ~1% - 5%, Memory ~100 MB - 300 MB
+   - Google Drive: CPU ~1% - 5%, Memory ~100 MB - 300 MB
+
+8. System Processes
+   - Windows Explorer (explorer.exe): CPU ~1% - 10%, Memory ~100 MB - 500 MB
+   - System Idle Process: CPU ~99% when idle, Memory ~10 MB - 50 MB
+
+9. Security and System Maintenance
+   - Windows Defender Antivirus: CPU ~1% - 10%, Memory ~100 MB - 500 MB
+   - Windows Update: CPU ~5% - 15%, Memory ~100 MB - 500 MB
+   - Background Intelligent Transfer Service (BITS): CPU ~1% - 3%, Memory ~50 MB - 200 MB
+   - Windows Search (SearchIndexer.exe): CPU ~5% - 15%, Memory ~100 MB - 400 MB
+
+10. Other System Processes
+   - Windows Shell Experience Host (ShellExperienceHost.exe): CPU ~1% - 5%, Memory ~50 MB - 200 MB
+   - Windows Security Notification Icon (SecurityHealthSystray.exe): CPU ~1%, Memory ~50 MB

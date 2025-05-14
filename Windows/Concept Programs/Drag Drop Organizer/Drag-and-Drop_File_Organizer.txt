@@ -1,0 +1,17 @@
+Drag-and-drop_file_organizer
+
+📂 Automatically organize drag-and-drop files into folders.
+
+INSPIRATION
+
+This software idea was inspired by [Kalle Hallden](https://www.youtube.com/@Hallden_) and [KRV Perera](https://www.youtube.com/channel/UCZagdhAUU0I2ZeHKx2l51bw).
+
+DESCRIPTION
+
+Drag and drop files to a file organizer icon. Files are organized to folders for pictures, documents, videos and music files.
+
+REFERENCES
+
+[Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
+
+[Download Organizer](https://gist.github.com/KRVPerera/b93b7b0615b674aaa8b4ef8d62cf0ae6)

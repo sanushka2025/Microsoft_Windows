@@ -1,0 +1,42 @@
+ROOT (Windows Registry)
+│
+├── HKEY_CLASSES_ROOT (HKCR) 
+│   ├── File Associations
+│   ├── COM Objects
+│   ├── MIME Types
+│   ├── Shell Extensions
+│
+├── HKEY_CURRENT_USER (HKCU)
+│   ├── Environment Variables
+│   ├── Control Panel Settings
+│   ├── Software Preferences
+│   ├── Network Configurations
+│
+├── HKEY_LOCAL_MACHINE (HKLM)
+│   ├── SYSTEM
+│   │   ├── CurrentControlSet
+│   │   │   ├── Services
+│   │   │   ├── Hardware Profiles
+│   │   │   ├── Control
+│   │   │   ├── Security
+│   │   │   ├── Network
+│   │   ├── Enum (Device Enumeration)
+│   │   ├── Hardware (Driver Configs)
+│   │   ├── SOFTWARE
+│   │   │   ├── Installed Applications
+│   │   │   ├── Windows Components
+│   │   │   ├── Licensing Information
+│   │   ├── SAM (Security Accounts Manager)
+│   │   ├── SECURITY
+│
+├── HKEY_USERS (HKU)
+│   ├── Default User Profile
+│   ├── Active User Settings
+│   ├── User-Specific Software Configurations
+│   ├── User Customizations
+│
+└── HKEY_CURRENT_CONFIG (HKCC)
+    ├── Hardware Profiles
+    ├── Display Settings
+    ├── Sound Configurations
+    ├── Peripherals Settings

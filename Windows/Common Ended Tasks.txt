@@ -1,0 +1,47 @@
+1. Superfetch (SysMain)  
+   Power Impact: Uses CPU and memory when idle.  
+   Potential Power Savings: Disabling can save 5-15% CPU and reduce disk usage.
+
+2. Windows Search (SearchIndexer.exe)  
+   Power Impact: High CPU usage during file indexing, up to 30%.  
+   Potential Power Savings: Disabling can save 10-30% CPU and reduce disk activity.
+
+3. Windows Update (wuauserv)  
+   Power Impact: High CPU, disk, and network usage during updates.  
+   Potential Power Savings: Pausing updates can save 5-20% CPU and disk usage.
+
+4. OneDrive (OneDrive.exe)  
+   Power Impact: Continuous syncing uses CPU and disk.  
+   Potential Power Savings: Pausing sync can save 5-10% CPU and reduce disk activity.
+
+5. Antivirus Scanning Processes (Windows Defender or third-party antivirus)  
+   Power Impact: Can use CPU and disk resources during real-time scanning and scheduled scans.  
+   Potential Power Savings: Scheduling scans to run during idle time or pausing temporarily can save 5-10% CPU.
+
+6. Microsoft Teams  
+   Power Impact: Background process uses CPU and memory even when idle.  
+   Potential Power Savings: Closing or disabling can save 10-20% CPU and 100-500 MB memory.
+
+7. Skype (Skype.exe)  
+   Power Impact: Uses CPU and memory for notifications and background syncing.  
+   Potential Power Savings: Closing it saves 5-10% CPU and reduces memory usage by 100-300 MB.
+
+8. Google Chrome / Mozilla Firefox (Helper Processes)  
+   Power Impact: Multiple tabs and extensions can consume significant CPU and memory.  
+   Potential Power Savings: Closing unnecessary tabs and extensions can save 10-25% CPU and 500 MB+ of memory.
+
+9. Windows Shell Experience Host (ShellExperienceHost.exe)  
+   Power Impact: Uses CPU for UI-related processes, especially when interacting with the Start Menu and Taskbar.  
+   Potential Power Savings: Stopping can save 1-5% CPU and reduce idle system resource usage.
+
+10. Realtek Audio Processes (e.g., RtkNGUI64.exe)  
+    Power Impact: Uses CPU when adjusting audio settings.  
+    Potential Power Savings: Stopping when not needed can save 1-3% CPU.
+
+11. Bluetooth Support Service (btserv.dll)  
+    Power Impact: Uses power continuously if Bluetooth is active.  
+    Potential Power Savings: Disabling when not using Bluetooth can save 1-5% CPU and battery.
+
+12. NVIDIA/AMD Graphics Processes  
+    Power Impact: GPU-related processes use significant power during graphics tasks.  
+    Potential Power Savings: Stopping unnecessary background tasks can save 10-30% GPU usage.

@@ -1,0 +1,9 @@
+Microsoft introduced the practice of regularly updating Windows with the launch of Windows 95. This early version of Windows received updates through manual installation using floppy disks or CDs distributed by Microsoft. As internet connectivity became more widespread, Microsoft transitioned to providing updates online.
+
+The significant development in Windows updating came with Windows 98, which included the Windows Update feature. This built-in tool allowed the operating system to receive patches, driver updates, and performance improvements directly through an internet connection. This system of delivering updates was further refined with each subsequent version of Windows, becoming more integrated and automated to ensure systems remain up-to-date with minimal user intervention.
+
+The approach to updates evolved with the introduction of Windows 10, where Microsoft adopted a service model, delivering not just security patches and bug fixes but also feature updates regularly. This ensures that the operating system stays current with continuous improvements and innovations.
+
+Microsoft typically follows a fixed lifecycle policy for its Windows operating systems, which includes a period of mainstream support followed by extended support. For Windows 11, which was released on October 5, 2021, the mainstream support is set to end on October 13, 2026. After this period, Windows 11 will likely enter an extended support phase, which generally lasts for an additional five years.
+
+Thus, you can expect that extended support for Windows 11 will end around October 14, 2031. During the mainstream support phase, Windows 11 receives feature updates, bug fixes, and security updates. In the extended support phase, it typically receives only security updates. After the end of extended support, no further updates or support will be provided by Microsoft for Windows 11.

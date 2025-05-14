@@ -1,0 +1,78 @@
+Windows System Deviation Rating Model
+
+We define a deviation D as a measurable change in the system state from the default Windows configuration.
+
+1. Notation and Definitions
+
+Let S represent the system state, where:
+
+S = {F, R, G, P, O}
+
+F = Set of all system files  
+R = Set of registry keys and values  
+G = Group Policy settings  
+P = Installed programs and drivers  
+O = Other configurations (e.g., network settings, user preferences)  
+
+Let S₀ be the default Windows system state.  
+Let S' be the customized system state after user modifications.  
+
+Define the deviation function:
+
+D(S, S') = d(F) + d(R) + d(G) + d(P) + d(O)
+
+where d(X) represents the deviation score for each system component.
+
+2. Deviation Measurement  
+Each system component is analyzed for deviations:
+
+2.1 File System Deviations (d(F))  
+Changes in system files include additions, deletions, and modifications. The deviation function is:
+
+d(F) = ∑ (w_f ⋅ δ(F_i)), for i = 1 to n
+
+where:  
+- F_i is a file in the system,  
+- δ(F_i) is an indicator function:  
+  - δ(F_i) = 1, if F_i is modified, deleted, or added  
+  - δ(F_i) = 0, otherwise  
+- w_f is a weight assigned based on file importance (e.g., system files are weighted higher).  
+
+2.2 Registry Deviations (d(R))  
+Registry modifications affect system behavior and security:
+
+d(R) = ∑ (w_r ⋅ δ(R_j)), for j = 1 to m
+
+where:  
+- R_j is a registry key or value,  
+- δ(R_j) detects changes (similar to files),  
+- w_r is a weight based on criticality.  
+
+2.3 Group Policy Deviations (d(G))  
+Group Policy settings are checked for deviations:
+
+d(G) = ∑ (w_g ⋅ δ(G_k)), for k = 1 to p
+
+where:  
+- G_k is a Group Policy setting,  
+- w_g is a weight based on security importance.  
+
+2.4 Installed Programs and Drivers (d(P))  
+The set of installed software and drivers is compared:
+
+d(P) = ∑ (w_p ⋅ δ(P_l)), for l = 1 to q
+
+where:  
+- P_l represents an installed program or driver.  
+
+2.5 Other Configurations (d(O))  
+Network settings, user preferences, and security policies:
+
+d(O) = ∑ (w_o ⋅ δ(O_m)), for m = 1 to r
+
+3. Overall Deviation Score  
+The total system deviation score is:
+
+D(S, S') = d(F) + d(R) + d(G) + d(P) + d(O)
+
+This score provides a Windows System Deviation Rating to quantify how far the system has changed from its default state.

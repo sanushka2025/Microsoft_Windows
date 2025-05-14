@@ -1,0 +1,25 @@
+# =======================================================================
+#                        Windows 11 Setup Script
+# =======================================================================
+# This Python program automates several setup tasks for a fresh Windows 11
+# installation, including:
+# 
+# 1. Removing default installed apps such as Xbox, Microsoft Edge, etc.
+# 2. Changing the mouse speed to maximum (full speed).
+# 3. Hiding all desktop icons.
+# 4. Enabling dark mode for Windows 11.
+# 5. Installing essential software: VLC, Notepad++, and Google Chrome.
+# 
+# The program requires administrative privileges to modify system settings
+# and install software. It also requires an active internet connection to
+# download the installers for VLC, Notepad++, and Google Chrome.
+# 
+# Usage:
+# - Save the script as `windows_setup.py`.
+# - Run the script in an elevated (administrator) command prompt.
+# 
+# Note:
+# - Changes made by this script (e.g., removing default apps, changing mouse
+#   speed, etc.) will take effect immediately, but a system restart may be
+#   necessary for all changes to fully apply.
+# =======================================================================
